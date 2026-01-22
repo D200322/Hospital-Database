@@ -1,0 +1,9 @@
+<staffs>
+    <staff>
+        <Employee_No>1010</Employee_No>
+        <Name>Dr. Jayasinghe</Name>
+        <Gender>Male</Gender>
+        <Address>Negombo</Address>
+        <Telephone_No>0775562238</Telephone_No>
+    </staff>
+</staffs>

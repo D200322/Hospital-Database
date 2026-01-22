@@ -1,0 +1,14 @@
+<patients>
+    <patient>
+        <Patient_ID>2015</Patient_ID>
+        <Name>Waruna Randima</Name>
+        <Age>32</Age>
+        <Address>Hanwella</Address>
+        <Telephone_No>0753621147</Telephone_No>
+        <Blood_Type>B</Blood_Type>
+        <Primary_Doctor>1001</Primary_Doctor>
+    </patient>
+</patients>
+
+
+
